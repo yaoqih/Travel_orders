@@ -288,6 +288,16 @@
     });
 
     $(document).ready(function() {
+        $('#datepicker-a4').datetimepicker({
+            format : "yyyy-mm-dd hh:ii",
+            autoclose : true,
+            todayBtn : true,
+            language : "zh-CN"
+        });
+    });
+
+
+    $(document).ready(function() {
         // 激活导航位置
         setSidebarActive("order-manage");
         $("#datepicker-a3").datetimepicker({
