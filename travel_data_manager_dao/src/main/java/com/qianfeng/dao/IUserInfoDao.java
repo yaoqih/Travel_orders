@@ -36,8 +36,7 @@ public interface IUserInfoDao {
             @Result(column = "password",property = "password"),
             @Result(column = "phoneNum",property = "phoneNum"),
             @Result(column = "status",property = "status"),
-            @Result(property = "roles",column = "id",javaType = List.class,many=@Many(select = "com.qianfeng.dao.IRoleDao.findByUserId",fetchType = FetchType.LAZY)),
-
+            @Result(property = "roles",column = "id",javaType = List.class,many=@Many(select = "com.qianfeng.dao.IRoleDao.findByUserId",fetchType = FetchType.LAZY))
     })
     UserInfo findById(String userid);
 
