@@ -6,3 +6,4 @@ travel_data_manager_dao/target
 travel_data_manager_service/target
 travel_data_manager_web/target
 travel_data_manager_web/src/main/webapp/plugins
+.idea
