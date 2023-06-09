@@ -74,6 +74,26 @@
                 </ul>
             </li>
 
+            <%--营销合作--%>
+            <li class="treeview"><a href="#"> <i class="fa fa-cube"></i>
+                <span>营销合作</span> <span class="pull-right-container"> <i
+                        class="fa fa-angle-left pull-right"></i>
+				</span>
+            </a>
+                <ul class="treeview-menu">
+
+                    <li id="system-setting"><a
+                            href="${pageContext.request.contextPath}/product/findAll">
+                        <i class="fa fa-circle-o"></i> 活动管理
+                    </a></li>
+                    <li id="system-setting"><a
+                            href="${pageContext.request.contextPath}/partner/findAll?page=1&pageSize=5"> <i
+                            class="fa fa-circle-o"></i> 合作商管理
+                    </a></li>
+
+                </ul>
+            </li>
+
         </ul>
     </section>
     <!-- /.sidebar -->

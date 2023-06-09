@@ -25,7 +25,7 @@ public interface IUserInfoDao {
     @Select("select * from users")
     List<UserInfo> findAll();
 
-    @Insert("insert users(id,email,username,password,phoneNum,status) values(#{id},#{email},#{username},#{password},#{phoneNum},#{status})")
+    @Insert("insert into users(id,email,username,password,phoneNum,status) values(#{id},#{email},#{username},#{password},#{phoneNum},#{status})")
     void save(UserInfo userInfo);
 
     @Select("select * from users where id =#{userid}")
