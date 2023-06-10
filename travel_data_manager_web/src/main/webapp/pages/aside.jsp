@@ -90,6 +90,10 @@
                             href="${pageContext.request.contextPath}/partner/findAll?page=1&pageSize=5"> <i
                             class="fa fa-circle-o"></i> 合作商管理
                     </a></li>
+                    <li id="system-setting"><a
+                            href="${pageContext.request.contextPath}/traveller/findAllPoints?page=1&pageSize=5"> <i
+                            class="fa fa-circle-o"></i> 积分管理
+                    </a></li>
 
                 </ul>
             </li>
