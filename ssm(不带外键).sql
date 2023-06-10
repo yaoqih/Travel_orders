@@ -213,3 +213,89 @@ INSERT INTO `employee_comments` (`comment_id`, `employee_id`, `comment`, `create
 INSERT INTO `employee_comments` (`comment_id`, `employee_id`, `comment`, `created_at`) VALUES (8, 10, 'If you wait, all that happens is you get older. Such sessions are also susceptible to session hijacking, where a malicious user takes over your session once you have authenticated. Secure Sockets Layer(SSL) is a protocol for transmitting private documents via the Internet. Creativity is intelligence having fun. In a Telnet session, all communications, including username and password, are transmitted in plain-text, allowing anyone to listen-in on your session and steal passwords and other information. A man’s best friends are his ten fingers. In other words, Navicat provides the ability for data in different databases and/or schemas to be kept up-to-date so that each repository contains the same information. Navicat Cloud provides a cloud service for synchronizing connections, queries, model files and virtual group information from Navicat, other Navicat family members, different machines and different platforms. Genius is an infinite capacity for taking pains. If your Internet Service Provider (ISP) does not provide direct access to its server, Secure Tunneling Protocol (SSH) / HTTP is another solution. Flexible settings enable you to set up a custom key for comparison and synchronization. Flexible settings enable you to set up a custom key for comparison and synchronization. Creativity is intelligence having fun. Anyone who has never made a mistake has never tried anything new. Navicat Monitor is a safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible. Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from. Navicat allows you to transfer data from one database and/or schema to another with detailed analytical process. In the Objects tab, you can use the List List, Detail Detail and ER Diagram ER Diagram buttons to change the object view. It provides strong authentication and secure encrypted communications between two hosts, known as SSH Port Forwarding (Tunneling), over an insecure network. Anyone who has ever made anything of importance was disciplined. Import Wizard allows you to import data to tables/collections from CSV, TXT, XML, DBF and more. Remember that failure is an event, not a person. I may not have gone where I intended to go, but I think I have ended up where I needed to be. You can select any connections, objects or projects, and then select the corresponding buttons on the Information Pane. I will greet this day with love in my heart. In a Telnet session, all communications, including username and password, are transmitted in plain-text, allowing anyone to listen-in on your session and steal passwords and other information. The past has no power over the present moment. To start working with your server in Navicat, you should first establish a connection or several connections using the Connection window. Flexible settings enable you to set up a custom key for comparison and synchronization. Navicat 15 has added support for the system-wide dark mode. With its well-designed Graphical User Interface(GUI), Navicat lets you quickly and easily create, organize, access and share information in a secure and easy way. If it scares you, it might be a good thing to try. Navicat Monitor requires a repository to store alerts and metrics for historical analysis. It wasn’t raining when Noah built the ark. Actually it is just in an idea when feel oneself can achieve and cannot achieve. Monitored servers include MySQL, MariaDB and SQL Server, and compatible with cloud databases like Amazon RDS, Amazon Aurora, Oracle Cloud, Google Cloud and Microsoft Azure. To open a query using an external editor, control-click it and select Open with External Editor. You can set the file path of an external editor in Preferences. If the Show objects under schema in navigation pane option is checked at the Preferences window, all database objects are also displayed in the pane. It collects process metrics such as CPU load, RAM usage, and a variety of other resources over SSH/SNMP. It can also manage cloud databases such as Amazon Redshift, Amazon RDS, Alibaba Cloud. Features in Navicat are sophisticated enough to provide professional developers for all their specific needs, yet easy to learn for users who are new to database server. It is used while your ISPs do not allow direct connections, but allows establishing HTTP connections. If you wait, all that happens is you get older. It is used while your ISPs do not allow direct connections, but allows establishing HTTP connections. If the Show objects under schema in navigation pane option is checked at the Preferences window, all database objects are also displayed in the pane. Optimism is the one quality more associated with success and happiness than any other. Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from. Navicat provides powerful tools for working with queries: Query Editor for editing the query text directly, and Query Builder, Find Builder or Aggregate Builder for building queries visually. After logged in the Navicat Cloud feature, the Navigation pane will be divided into Navicat Cloud and My Connections sections. In the middle of winter I at last discovered that there was in me an invincible summer. Navicat Data Modeler is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. The reason why a great man is great is that he resolves to be a great man. It provides strong authentication and secure encrypted communications between two hosts, known as SSH Port Forwarding (Tunneling), over an insecure network. Navicat provides a wide range advanced features, such as compelling code editing capabilities, smart code-completion, SQL formatting, and more. To clear or reload various internal caches, flush tables, or acquire locks, control-click your connection in the Navigation pane and select Flush and choose the flush option. You must have the reload privilege to use this feature. All the Navicat Cloud objects are located under different projects. You can share the project to other Navicat Cloud accounts for collaboration. After logged in the Navicat Cloud feature, the Navigation pane will be divided into Navicat Cloud and My Connections sections. Navicat Data Modeler enables you to build high-quality conceptual, logical and physical data models for a wide variety of audiences. It is used while your ISPs do not allow direct connections, but allows establishing HTTP connections. The repository database can be an existing MySQL, MariaDB, PostgreSQL, SQL Server, or Amazon RDS instance. If you wait, all that happens is you get older. Navicat is a multi-connections Database Administration tool allowing you to connect to MySQL, Oracle, PostgreSQL, SQLite, SQL Server, MariaDB and/or MongoDB databases, making database administration to multiple kinds of database so easy.', '2015-12-22 23:01:20');
 INSERT INTO `employee_comments` (`comment_id`, `employee_id`, `comment`, `created_at`) VALUES (9, 7, 'It collects process metrics such as CPU load, RAM usage, and a variety of other resources over SSH/SNMP. Navicat Data Modeler enables you to build high-quality conceptual, logical and physical data models for a wide variety of audiences. To connect to a database or schema, simply double-click it in the pane. Navicat provides a wide range advanced features, such as compelling code editing capabilities, smart code-completion, SQL formatting, and more. Always keep your eyes open. Keep watching. Because whatever you see can inspire you. Anyone who has ever made anything of importance was disciplined. Genius is an infinite capacity for taking pains. You cannot save people, you can just love them. Secure SHell (SSH) is a program to log in into another computer over a network, execute commands on a remote server, and move files from one machine to another. You must be the change you wish to see in the world. There is no way to happiness. Happiness is the way. There is no way to happiness. Happiness is the way. Flexible settings enable you to set up a custom key for comparison and synchronization. There is no way to happiness. Happiness is the way. You can select any connections, objects or projects, and then select the corresponding buttons on the Information Pane. All journeys have secret destinations of which the traveler is unaware. In the Objects tab, you can use the List List, Detail Detail and ER Diagram ER Diagram buttons to change the object view. Creativity is intelligence having fun. Actually it is just in an idea when feel oneself can achieve and cannot achieve. Navicat 15 has added support for the system-wide dark mode. The Main Window consists of several toolbars and panes for you to work on connections, database objects and advanced tools. HTTP Tunneling is a method for connecting to a server that uses the same protocol (http://) and the same port (port 80) as a web server does. With its well-designed Graphical User Interface(GUI), Navicat lets you quickly and easily create, organize, access and share information in a secure and easy way. Creativity is intelligence having fun. To start working with your server in Navicat, you should first establish a connection or several connections using the Connection window. To successfully establish a new connection to local/remote server - no matter via SSL or SSH, set the database login information in the General tab. I destroy my enemies when I make them my friends. To successfully establish a new connection to local/remote server - no matter via SSL or SSH, set the database login information in the General tab. If your Internet Service Provider (ISP) does not provide direct access to its server, Secure Tunneling Protocol (SSH) / HTTP is another solution.', '2021-11-28 00:26:01');
 INSERT INTO `employee_comments` (`comment_id`, `employee_id`, `comment`, `created_at`) VALUES (10, 7, 'To successfully establish a new connection to local/remote server - no matter via SSL or SSH, set the database login information in the General tab. All journeys have secret destinations of which the traveler is unaware. It provides strong authentication and secure encrypted communications between two hosts, known as SSH Port Forwarding (Tunneling), over an insecure network. To connect to a database or schema, simply double-click it in the pane. You cannot save people, you can just love them. With its well-designed Graphical User Interface(GUI), Navicat lets you quickly and easily create, organize, access and share information in a secure and easy way. Navicat provides powerful tools for working with queries: Query Editor for editing the query text directly, and Query Builder, Find Builder or Aggregate Builder for building queries visually. Navicat Monitor is a safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible. It wasn’t raining when Noah built the ark. The Main Window consists of several toolbars and panes for you to work on connections, database objects and advanced tools. After logged in the Navicat Cloud feature, the Navigation pane will be divided into Navicat Cloud and My Connections sections. If opportunity doesn’t knock, build a door. The repository database can be an existing MySQL, MariaDB, PostgreSQL, SQL Server, or Amazon RDS instance. To connect to a database or schema, simply double-click it in the pane. Creativity is intelligence having fun. After logged in the Navicat Cloud feature, the Navigation pane will be divided into Navicat Cloud and My Connections sections. A query is used to extract data from the database in a readable format according to the user\'s request. Genius is an infinite capacity for taking pains. To get a secure connection, the first thing you need to do is to install OpenSSL Library and download Database Source. A comfort zone is a beautiful place, but nothing ever grows there. What you get by achieving your goals is not as important as what you become by achieving your goals. There is no way to happiness. Happiness is the way. Import Wizard allows you to import data to tables/collections from CSV, TXT, XML, DBF and more. Navicat provides powerful tools for working with queries: Query Editor for editing the query text directly, and Query Builder, Find Builder or Aggregate Builder for building queries visually. SQL Editor allows you to create and edit SQL text, prepare and execute selected queries. The Main Window consists of several toolbars and panes for you to work on connections, database objects and advanced tools. It collects process metrics such as CPU load, RAM usage, and a variety of other resources over SSH/SNMP.', '2017-12-08 16:16:17');
+
+/*
+ Navicat Premium Data Transfer
+
+ Source Server         : localhost_3307
+ Source Server Type    : MySQL
+ Source Server Version : 50729
+ Source Host           : localhost:3307
+ Source Schema         : ligong_ssm
+
+ Target Server Type    : MySQL
+ Target Server Version : 50729
+ File Encoding         : 65001
+
+ Date: 10/06/2023 01:13:33
+*/
+
+SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS = 0;
+
+-- ----------------------------
+-- Table structure for present
+-- ----------------------------
+DROP TABLE IF EXISTS `present`;
+CREATE TABLE `present`  (
+                            `id` varchar(50) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
+                            `presentName` varchar(100) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
+                            `presentDesc` varchar(200) CHARACTER SET utf8 COLLATE utf8_bin NULL DEFAULT NULL,
+                            `requiredPoints` int(11) NOT NULL,
+                            `stock` int(11) NOT NULL,
+                            PRIMARY KEY (`id`) USING BTREE
+) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_bin ROW_FORMAT = Dynamic;
+
+-- ----------------------------
+-- Records of present
+-- ----------------------------
+INSERT INTO `present` VALUES ('1', '电子书阅读器', '一款便携式电子书阅读器，支持多种电子书格式', 200, 50);
+INSERT INTO `present` VALUES ('10', '家用电器', '一款小型家用电器，如电饭煲或电磁炉', 150, 20);
+INSERT INTO `present` VALUES ('2', '运动水瓶', '容量为500ml的不锈钢运动水瓶，带有防漏设计', 80, 100);
+INSERT INTO `present` VALUES ('3', '旅行背包', '适用于短途旅行的背包，具有多个分隔和口袋', 300, 20);
+INSERT INTO `present` VALUES ('4', '无线蓝牙耳机', '具备高音质和长续航的无线蓝牙耳机', 150, 30);
+INSERT INTO `present` VALUES ('5', '优惠券礼包', '包含多张各类商店的优惠券，可享受折扣和特惠', 100, 50);
+INSERT INTO `present` VALUES ('6', '户外运动手表', '具备计步、心率监测和GPS功能的户外运动手表', 250, 15);
+INSERT INTO `present` VALUES ('7', '文具套装', '一套包含笔、记事本和文件夹的精美文具套装', 80, 50);
+INSERT INTO `present` VALUES ('8', '音乐耳机', '舒适的音乐耳机，提供出色的音质和降噪功能', 180, 25);
+INSERT INTO `present` VALUES ('9', '美妆礼品套装', '一套包含化妆品和护肤品的精美礼品套装', 200, 10);
+INSERT INTO `present` VALUES ('cd011b31-bf18-4aaa-97fa-c73b29792b52', '大力神杯', '有大力神的力量', 666, 50);
+
+SET FOREIGN_KEY_CHECKS = 1;
+
+
+/*
+Navicat MySQL Data Transfer
+
+Source Server         : my
+Source Server Version : 50724
+Source Host           : localhost:3306
+Source Database       : ligong_ssm
+
+Target Server Type    : MYSQL
+Target Server Version : 50724
+File Encoding         : 65001
+
+Date: 2023-06-10 12:54:45
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+
+-- ----------------------------
+-- Table structure for points
+-- ----------------------------
+DROP TABLE IF EXISTS `points`;
+CREATE TABLE `points` (
+                          `id` varchar(32) COLLATE utf8_bin NOT NULL,
+                          `points` int(11) DEFAULT NULL,
+                          PRIMARY KEY (`id`),
+                          CONSTRAINT `points_ibfk_1` FOREIGN KEY (`id`) REFERENCES `traveller` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+-- ----------------------------
+-- Records of points
+-- ----------------------------
+INSERT INTO `points` VALUES ('3FE27DF2A4E44A6DBC5D0FE4651D3D3E', '100000');
+INSERT INTO `points` VALUES ('EE7A71FB6945483FBF91543DBE851960', '100');
+
+

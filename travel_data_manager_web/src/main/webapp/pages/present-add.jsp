@@ -120,10 +120,10 @@
                         </div>
                         
 
-                        <div class="col-md-2 title rowHeight2x">礼品描述</div>
-                        <div class="col-md-10 data rowHeight2x">
-							<textarea class="form-control" rows="3" placeholder="礼品描述"
-                                      name="presentDesc"></textarea>
+                        <div class="col-md-2 title ">礼品描述</div>
+                        <div class="col-md-4 data ">
+							<input class="form-control" type="text" placeholder="礼品描述"
+                                      name="presentDesc"></input>
                         </div>
 
                     </div>
