@@ -11,8 +11,8 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.annotation.Resource;
 import java.util.List;
 
-//@Controller
-//@RequestMapping("/employee")
+@Controller
+@RequestMapping("/employee")
 public class EmployeeController
 {
     @Resource
@@ -47,7 +47,7 @@ public class EmployeeController
         List<Employee> employeeList = employeeService.findAll(page,pageSize);
         PageInfo<Employee> pageInfo = new PageInfo<>(employeeList);
         mav.addObject("pageInfo",pageInfo);
-        mav.setViewName("employee-update");
+        mav.setViewName("employee-list");
         return mav;
     }
     // 改

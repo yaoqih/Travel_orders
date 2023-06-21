@@ -66,6 +66,7 @@
                             href="${pageContext.request.contextPath}/product/findAll">
                         <i class="fa fa-circle-o"></i> 产品管理
                     </a></li>
+
                     <li id="system-setting"><a
                             href="${pageContext.request.contextPath}/orders/findAll?page=1&pageSize=3"> <i
                             class="fa fa-circle-o"></i> 订单管理
@@ -119,6 +120,21 @@
                 </ul>
             </li>
 
+
+            <li class="treeview"><a href="#"> <i class="fa fa-cube"></i>
+                <span>员工管理</span> <span class="pull-right-container"> <i
+                        class="fa fa-angle-left pull-right"></i>
+				</span>
+            </a>
+                <ul class="treeview-menu">
+
+                    <li id="system-setting"><a
+                            href="${pageContext.request.contextPath}/employee/findAll">
+                        <i class="fa fa-circle-o"></i> 员工管理
+                    </a></li>
+
+                </ul>
+            </li>
 
         </ul>
     </section>

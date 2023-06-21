@@ -12,21 +12,21 @@ import java.util.List;
 @Repository
 public interface IEmployeeDao {
     // 增
-    @Insert("insert into employee(id,position,name,email,phone) values(#{id},#{position},#{name},#{email},#{phone})")
+    @Insert("insert into employees(id,position,name,email,phone) values(#{id},#{position},#{name},#{email},#{phone})")
     void add(Employee employee);
     // 删
-    @Delete("delete from employee where id = #{id}")
+    @Delete("delete from employees where id = #{id}")
     void deleteById(String id);
     // 查
-    @Select("select * from employee where name = #{name}")
+    @Select("select * from employees where name = #{name}")
     Employee findByEmployeeName(String name);
 
-    @Select("select * from employee where id = #{id}")
+    @Select("select * from employees where id = #{id}")
     Employee findById(String id);
 
-    @Select("select * from employee")
+    @Select("select * from employees")
     List<Employee> findAll();
     // 改
-    @Update("update employee set id = #{id},position = #{position},name = #{name},email = #{email},phone = #{phone}")
+    @Update("update employees set position = #{position},name = #{name},email = #{email},phone = #{phone} where id = #{id}")
     void update(Employee employee);
 }
